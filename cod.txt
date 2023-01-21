@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+   <body>
+  <img class="image4" src=https://www.iconpacks.net/icons/2/free-settings-icon-3110-thumb.png>
+     <img class="image3" src=https://cdn-icons-png.flaticon.com/512/1293/1293029.png>
+     
+    <img class="image2"
+       src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/2048px-Circle-icons-computer.svg.png>
+
+
+     <img class="image1" src=https://cdn3d.iconscout.com/3d/free/thumb/facebook-4703920-3915172.png>
+          <h1 >EASY CREDIT</h1>
+  
+  <h2  align="center" class=title2>
+    <strong>
+    HOW TO GET AN EASY CREDIT
+      <strong>
+      </h2>
+  
+  <div class="block1">
+    <strong>OUR APP IN GOOGLE PLAY
+    <br>
+     "EASY CREDIT"<br>
+      <li>DUE TO THIS APP YOU CAN GET YOUR EASY CREDIT<br>
+      <li>FOR GET AN EASY CREDIT YOU NEED TO REGISTER IN OUR APP 
+        
+    </strong>
+</div>
+  
+  <div class="block2"> 
+    <strong>
+      OUR BRANCHES IN EREVAN
+      <li>TUMANYAN ST.24
+        <li>AMIRYAN 3/07
+      <li>AMIRYAN 3/37
+    
+  </strong>
+    </div>
+  
+  <div class="block3"> 
+    <strong>
+      YOU CAN GET FAST,SAFE AND EASY CREDIT RIGHT NOW<br>
+      JUST CLICK HEAR<br>
+     <li> CLICK-<a href="url">here</a>
+    </strong>                                       </div>
+      
+      <a href="url" class="link"><p>OUR FACEBOOK</p></a>
+     
+   </body>
+</html>
+
+body{
+  height:500px;
+  background-image: url(https://images.hdqwalls.com/download/white-cube-pattern-4k-bu-1360x768.jpg)
+    
+ 
+}
+.block1{
+  background-color:#aedefc;
+  display:inline-block;
+  position:absolute;
+  padding:15px;
+  height:100px;
+  width:300px;
+  font-size:14px;
+  margin-top:15px;
+  margin-right;15px;
+  margin-left:15px;
+  
+
+ 
+  
+ }
+.block2{
+  background-color:#aedefc;
+  display:inline-block;
+  position:absolute;
+  padding:15px;
+  height:100px;
+  width:300px;
+  font-size:14px;
+  left:600px;
+  margin-top:15px;
+  margin-right:15px;
+  margin-left:15px;
+
+}
+                                                    
+.block3{
+ background-color:#aedefc;
+  display:inline-block;
+  position:absolute;
+  padding:15px;
+  height:100px;
+  width:300px;
+  font-size:14px;
+  right:30px;
+  margin-top:15px;
+  margin-left:15px;
+}
+.link{
+  position:absolute;
+  right:0;
+  top:0;
+  
+}
+.image1{
+  height:20px;
+  width:20px;
+  position:absolute;
+  right:129px;
+  top:15px;
+}
+.image2{
+  height:50px;
+  width:50px;
+  position:absolute;
+  top:96px;
+  left:339px;
+}
+.image3{
+  height:50px;
+  width:50px;
+  position:absolute;
+  left:940px;
+  top:100px;
+  
+}
+.image4{
+  height:50px;
+  width:50px;
+  position:absolute;
+  right:10px;
+  top:90px;
+}
